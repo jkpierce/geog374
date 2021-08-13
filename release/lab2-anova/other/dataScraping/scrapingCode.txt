@@ -1,0 +1,3 @@
+I used pdfplumber < background-checks.pdf > background-checks.csv
+from 
+https://github.com/jsvine/pdfplumber#command-line-interface
